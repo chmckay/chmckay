@@ -13,3 +13,7 @@ I love being outside. I like to pretend I'm an avid mountain biker, but really m
 -   In 2004, I opened [Lakeridge Software](http://www.lakeridgesoftware.com) where I developed mobile and desktop software. It's been on hiatus as I had several major life events which took me away from it for a while.
 
 -   From May 2011 to present, I have been employed at [MasterControl](https://mastercontrol.com). Here I help develop the main software suite, both front-end and back-end. We mainly use Angular, React, ColdFusion and Java.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/christopher-mckay-02b83030/)
+[![Mastodon](https://img.shields.io/badge/mastodon-6364ff?style=for-the-badge&logo=mastodon&logoColor=white)](https://hachyderm.io/@chmckay)
+[![Twitter](https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/themobiledev)
