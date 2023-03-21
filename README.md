@@ -16,4 +16,3 @@ I love being outside. I like to pretend I'm an avid mountain biker, but really m
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/christopher-mckay-02b83030/)
 [![Mastodon](https://img.shields.io/badge/mastodon-6364ff?style=for-the-badge&logo=mastodon&logoColor=white)](https://hachyderm.io/@chmckay)
-[![Twitter](https://img.shields.io/badge/twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/themobiledev)
